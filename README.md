@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sneakinn: An ecommerce website for sneakers shopping👋
 
 <!--
 **DCIT208Group53/DCIT208Group53** is the repository for the DCIT 208 Sneakinn project
